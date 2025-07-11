@@ -60,23 +60,14 @@ const ACTIONS = {
 
 🧪 Getting Started
 Clone the repo
-
-bash
-Copy
-Edit
 git clone https://github.com/Sahan2O4/react-calculator.git
+
 Install dependencies
-
-bash
-Copy
-Edit
 npm install
-Run the app
 
-bash
-Copy
-Edit
+Run the app
 npm start
+
 Open in browser: http://localhost:3000
 
 ✍️ Author
