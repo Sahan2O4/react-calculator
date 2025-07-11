@@ -47,16 +47,7 @@ The calculator uses `useReducer` to manage the state:
 - `reducer()` – Updates state based on button actions
 - `formatOperand()` – Adds commas to large numbers for readability
 
-### Actions
 
-```js
-const ACTIONS = {
-  ADD_DIGIT: "add-digit",
-  CHOOSE_OPERATION: "choose-operation",
-  CLEAR: "clear",
-  DELETE_DIGIT: "delete-digit",
-  EVALUATE: "evaluate",
-};
 
 🧪 Getting Started
 Clone the repo
