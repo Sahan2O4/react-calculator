@@ -65,5 +65,5 @@ Open in browser: http://localhost:3000
 Sahan De Silva
 📧 sahandesilva484@gmail.com
 📱 +94 776 822 240
-🌐 LinkedIn Profile
+🌐 LinkedIn Profile: https://www.linkedin.com/in/sahan-de-silva-96b07431a/
 
